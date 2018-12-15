@@ -35974,5 +35974,11 @@
 	},
 	{
 		"fileName": "../operate/all_ir20181216_songs.json"
+	},
+	{
+		"fileName": "../operate/all_cc20181216_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ib20181216_songs.json"
 	}
 ]
