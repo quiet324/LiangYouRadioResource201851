@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180916",
-		"title": "耶路撒冷复兴大会（1）（尼8:1-4）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180916.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/th20180916/th/th180916.mp3",
-		"id": 32180916
-	},
-	{
 		"time": "20180917",
 		"title": "以撒住在基拉耳（3）（创26:12-17）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180917.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/th20181216/th/th181216.mp3",
 		"id": 32181216
+	},
+	{
+		"time": "20181217",
+		"title": "约瑟的受苦（5）（创37:29-36）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181217.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/th20181217/th/th181217.mp3",
+		"id": 32181217
 	}
 ]
