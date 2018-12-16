@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180914",
-		"title": "生命之歌",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180914.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/gn20180914/gn/gn180914.mp3",
-		"id": 22180914
-	},
-	{
 		"time": "20180917",
 		"title": "蜕变的人生──良音姊妹的故事（4）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180917.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/gn20181214/gn/gn181214.mp3",
 		"id": 22181214
+	},
+	{
+		"time": "20181217",
+		"title": "得胜的生命（上）",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181217.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/gn20181217/gn/gn181217.mp3",
+		"id": 22181217
 	}
 ]
