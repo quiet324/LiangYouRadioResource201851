@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180914",
-		"title": "约瑟──正直与宽恕系列：家庭破镜重圆（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180914.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/iv20180914/iv/iv180914.mp3",
-		"id": 42180914
-	},
-	{
 		"time": "20180917",
 		"title": "约瑟──正直与宽恕系列：家庭破镜重圆（3）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180917.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/iv20181214/iv/iv181214.mp3",
 		"id": 42181214
+	},
+	{
+		"time": "20181217",
+		"title": "在恩典中觉醒系列：坚守恩典的阵地（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181217.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/iv20181217/iv/iv181217.mp3",
+		"id": 42181217
 	}
 ]
