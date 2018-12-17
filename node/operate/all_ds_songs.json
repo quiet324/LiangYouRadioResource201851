@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180917",
-		"title": "良院专区：林诚牧师分享；介绍“向老师致敬”；公布《保罗书信I》考题",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180917.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/ds20180917/ds/ds180917.mp3",
-		"id": 46180917
-	},
-	{
 		"time": "20180918",
 		"title": "教牧新视野：布道神学的更新与再思（主持：姚谦、杨天成）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180918.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/ds20181217/ds/ds181217.mp3",
 		"id": 46181217
+	},
+	{
+		"time": "20181218",
+		"title": "教牧新视野：如何在教会中推动祈祷？（主持：姚谦、林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181218.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/ds20181218/ds/ds181218.mp3",
+		"id": 46181218
 	}
 ]
