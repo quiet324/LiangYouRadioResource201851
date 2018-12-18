@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180917",
-		"title": "好得无比，每一天：锚（鸿1:7）；职场转化（14）（主持：林诚）；我爱背金句：彼前4:11上",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180917.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/dy20180917/dy/dy180917.mp3",
-		"id": 24180917
-	},
-	{
 		"time": "20180918",
 		"title": "好得无比，每一天：大卫王室（彼前1:24-25）；跟随耶稣的脚踪行：耶稣的“我是”（14）（主持：程蒙恩）；我爱背金句：彼前4:11上",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180918.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/dy20181217/dy/dy181217.mp3",
 		"id": 24181217
+	},
+	{
+		"time": "20181218",
+		"title": "好得无比，每一天：相咬相吞（加5:15）；马太福音说书（27）；我爱背金句：弗6:11",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181218.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/dy20181218/dy/dy181218.mp3",
+		"id": 24181218
 	}
 ]
