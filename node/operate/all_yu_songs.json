@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180918",
-		"title": "创译英文同乐会：箴17:22──喜乐的心乃是良药",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180918.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/yu20180918/yu/yu180918.mp3",
-		"id": 7180918
-	},
-	{
 		"time": "20180919",
 		"title": "绝妙各行业：电视新闻记者（上）",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180919.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/yu20181218/yu/yu181218.mp3",
 		"id": 7181218
+	},
+	{
+		"time": "20181219",
+		"title": "绝妙各行业：编曲师（下）",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181219.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/yu20181219/yu/yu181219.mp3",
+		"id": 7181219
 	}
 ]
