@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180918",
-		"title": "信心日引：不再被定罪（罗8:1）；俗世圣徒：第一章、故事-2",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180918.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/bc20180918/bc/bc180918.mp3",
-		"id": 10180918
-	},
-	{
 		"time": "20180919",
 		"title": "信心日引：基督的恩典与真理（约1:17）；俗世圣徒：第二章、名字-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180919.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/bc20181218/bc/bc181218.mp3",
 		"id": 10181218
+	},
+	{
+		"time": "20181219",
+		"title": "信心日引：灵里的干渴（约7:37）；做基督的管家：第六章、做金钱的管家-2",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181219.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/bc20181219/bc/bc181219.mp3",
+		"id": 10181219
 	}
 ]
