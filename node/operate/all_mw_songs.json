@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180918",
-		"title": "高处的视野（西3:1-11）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180918.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/mw20180918/mw/mw180918.mp3",
-		"id": 30180918
-	},
-	{
 		"time": "20180919",
 		"title": "天父必看顾你（诗8篇）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180919.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/mw20181218/mw/mw181218.mp3",
 		"id": 30181218
+	},
+	{
+		"time": "20181219",
+		"title": "宁静时刻（可6:30-34、45-46）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181219.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/mw20181219/mw/mw181219.mp3",
+		"id": 30181219
 	}
 ]
