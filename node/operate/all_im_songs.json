@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180918",
-		"title": "曼曼成长记：当孩子说“你是我的敌人”……──许多家庭教育充满了随意性，孩子不听话，父母非打即骂；孩子没按自己的要求做，父母任意苛待责罚……当任由父母做出气筒的孩子长大，步入青春期，成为叛逆少年少女，父母除了对孩子更加失望不满，也很少从自己出发，反省在孩子成长路上做错了什么……",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180918.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/im20180918/im/im180918.mp3",
-		"id": 14180918
-	},
-	{
 		"time": "20180919",
 		"title": "太太空间：走出产后抑郁症（下）从参加教会聚会到参加团契小组的学习，从读经开始到固定的每日灵修，健康的属灵生活，让她对神、对自己都有了重新的认识，她的生命价值观在被神改变中，抑郁的病症也一点点被医治。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180919.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/im20181218/im/im181218.mp3",
 		"id": 14181218
+	},
+	{
+		"time": "20181219",
+		"title": "太太空间：顺服让暴力丈夫变温柔了──她因丈夫的暴力性格，特别是家暴孩子，痛不欲生、苦不堪言，想过离婚，恨不得丈夫死掉……但当她开始尝试无条件顺服丈夫，居然丈夫也开始改变，虽然仍会旧病复发，点燃战火，但终日笼罩着的恐怖战争阴云终于有了春光明媚的时候，一个行将毁灭的家庭也终于让人看到了希望。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181219.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/im20181219/im/im181219.mp3",
+		"id": 14181219
 	}
 ]
