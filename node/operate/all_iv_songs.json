@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180919",
-		"title": "约瑟──正直与宽恕系列：工作忠诚（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180919.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/iv20180919/iv/iv180919.mp3",
-		"id": 42180919
-	},
-	{
 		"time": "20180920",
 		"title": "约瑟──正直与宽恕系列：工作忠诚（3）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180920.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/iv20181219/iv/iv181219.mp3",
 		"id": 42181219
+	},
+	{
+		"time": "20181220",
+		"title": "神圣的爱与恩典：神奇妙的爱（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181220.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/iv20181220/iv/iv181220.mp3",
+		"id": 42181220
 	}
 ]
