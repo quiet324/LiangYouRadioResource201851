@@ -1,15 +1,5 @@
 [
 	{
-		"time": "20180919",
-		"downUrl": "http://txly2.net/ly/audio/2018/gt/gt180919.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 57,
-		"artistName": "恩典与真理（回族）",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/gt20180919/gt/gt180919.mp3",
-		"id": 57180919
-	},
-	{
 		"time": "20180920",
 		"downUrl": "http://txly2.net/ly/audio/2018/gt/gt180920.mp3",
 		"duration": 1760,
@@ -918,5 +908,15 @@
 		"artistName": "恩典与真理（回族）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/gt20181219/gt/gt181219.mp3",
 		"id": 57181219
+	},
+	{
+		"time": "20181220",
+		"downUrl": "http://txly2.net/ly/audio/2018/gt/gt181220.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 57,
+		"artistName": "恩典与真理（回族）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/gt20181220/gt/gt181220.mp3",
+		"id": 57181220
 	}
 ]
