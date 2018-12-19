@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180919",
-		"title": "灵命进深系列：灵命成长的要素（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180919.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201838/pb20180919/pb/pb180919.mp3",
-		"id": 44180919
-	},
-	{
 		"time": "20180920",
 		"title": "灵命进深系列：得胜的生活奉献（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180920.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/pb20181219/pb/pb181219.mp3",
 		"id": 44181219
+	},
+	{
+		"time": "20181220",
+		"title": "怎样作传道人：释经的原则（上）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb181220.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201851/pb20181220/pb/pb181220.mp3",
+		"id": 44181220
 	}
 ]
